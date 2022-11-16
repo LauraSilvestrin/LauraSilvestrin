@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LauraSilvestrin
+- 👀 I’m interested in technollogy!
+- 🌱 I’m currently learning web development, AI and web sockets :) 
+- 💞️ I’m looking to collaborate on school projects
+- 📫 How to reach me silvestrineschembach@gmail.com
